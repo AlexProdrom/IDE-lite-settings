@@ -13,6 +13,7 @@ A collection of personal settings for my IDEs
 *	Run  = ^R
 *	Debug = ^D
 *	Run/Debug configuration = ^⌥R
+*	Attach debugger to Android Process = ^⌥D
 *	Run anything = ^^
 *	Stop = ^S
 *	Sync with gradle files= ^⌥S
