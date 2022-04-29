@@ -1,48 +1,43 @@
-# IDE-settings
-A collection of personal settings for my IDEs
+# Android Studio Lite Settings
 
-## Android IDE shortcuts
+### Tool Windows
+| Action | Shortcut |
+|---|---|
+| Project| ⌘1 |
+| Build  | ⌘2  |
+| Run  | ⌘3  |
+| Debug  | ⌘4  |
+| Logcat  | ⌘5  |
+| Terminal  | ⌘6  |
+| Git | ⌘7  |
+| Device Manager | ⌘8  |
 
-### Settings & others
-* Preferences = ⌘,
-*	Project structure = ⌘;
-*	Split vertically = ⌥V
-*	Create test = ⇧⌘T
+### Compilation and Running
+| Action | Shortcut |
+|---|---|
+| Run| ^R |
+| Debug  | ^D  |
+| Attach Debugger  | ⌥D  |
+| Make  | ^M  |
+| Clean  | ^C  |
+| Sync  | ^S  |
 
-### Running App
-*	Run  = ^R
-*	Debug = ^D
-*	Run/Debug configuration = ^⌥R
-*	Attach debugger to Android Process = ^⌥D
-*	Run anything = ^^
-*	Stop = ^S
-*	Sync with gradle files= ^⌥S
-*	Rebuild project = ⌥B
-*	Clean project = ⌥C
+### Find and Search
+| Action | Shortcut |
+|---|---|
+| Search all actions| ⌥A |
+| Search class structure  | ⌥S  |
+| Search recent files  | ⌥R  |
 
-### Git
-*	Update project(rebase to latest) = ⌘T
-*	Commit = ⌘K
-*	Push = ⌘P
-*	Create PR = ⇧⌘P
+### Others
+| Action | Shortcut |
+|---|---|
+| Split vertically| ^⌥V |
 
-### Find
-*	Find action = ⌥A
-*	Search class/file = ⇧⇧
-*	Search in code = ⇧⌘F
-*	Search in structure of file = ⌥F
-*	Search in file = ⌘F
-
-### Toolbar windows
-*	Project = ⌘1
-*	Gradle = ⌘2
-*	Git = ⌘3
-*	Run = ⌘4
-*	Debug = ⌘5
-*	Logcat = ⌘6
-*	Terminal = ⌘7
-
-### Refactoring
-*	Apply refactor = ^T
-*	Extract method = ⌥⌘M
-*	Change signature = ⌘F6
+### Live Templates
+| Template | Description |
+|---|---|
+| cfun  | create composable function  |
+| pfun  | create composable preview function  |
+| sfun| create suspend function |
+| tfun| create test function |
