@@ -41,3 +41,43 @@
 | pfun  | create composable preview function  |
 | sfun| create suspend function |
 | tfun| create test function |
+
+# Intellij Lite Settings
+
+### Tool Windows
+| Action | Shortcut |
+|---|---|
+| Project| ⌘1 |
+| Build  | ⌘2  |
+| Run  | ⌘3  |
+| Debug  | ⌘4  |
+| Grade  | ⌘5  |
+| Terminal  | ⌘6  |
+| Git | ⌘7  |
+
+### Compilation and Running
+| Action | Shortcut |
+|---|---|
+| Run| ^R |
+| Debug  | ^D  |
+| Make  | ^M  |
+| Sync  | ^S  |
+
+### Find and Search
+| Action | Shortcut |
+|---|---|
+| Search all actions| ⌥A |
+| Search class structure  | ⌥S  |
+| Search recent files  | ⌥R  |
+
+### Others
+| Action | Shortcut |
+|---|---|
+| Split vertically| ^⌥V |
+
+### Live Templates
+| Template | Description |
+|---|---|
+| sfun| create suspend function |
+| tfun| create test function |
+
