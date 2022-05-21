@@ -33,6 +33,8 @@
 | Action | Shortcut |
 |---|---|
 | Split vertically| ^⌥V |
+| Toggle breakpoint| ⌥P |
+| Mute breakpoints | ^⌥P |
 
 ### Live Templates
 | Template | Description |
@@ -74,6 +76,8 @@
 | Action | Shortcut |
 |---|---|
 | Split vertically| ^⌥V |
+| Toggle breakpoint| ⌥P |
+| Mute breakpoints | ^⌥P |
 
 ### Live Templates
 | Template | Description |
