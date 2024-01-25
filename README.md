@@ -50,20 +50,13 @@
 | Action | Shortcut |
 |---|---|
 | Project| ⌘1 |
-| Build  | ⌘2  |
-| Run  | ⌘3  |
-| Debug  | ⌘4  |
-| Grade  | ⌘5  |
 | Terminal  | ⌘6  |
-| Git | ⌘7  |
 
 ### Compilation and Running
 | Action | Shortcut |
 |---|---|
 | Run| ^R |
 | Debug  | ^D  |
-| Make  | ^M  |
-| Sync  | ^S  |
 
 ### Find and Search
 | Action | Shortcut |
@@ -76,8 +69,6 @@
 | Action | Shortcut |
 |---|---|
 | Split vertically| ^⌥V |
-| Toggle breakpoint| ⌥P |
-| Mute breakpoints | ^⌥P |
 
 ### Live Templates
 | Template | Description |
